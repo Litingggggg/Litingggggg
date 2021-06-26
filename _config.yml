@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              aemooooon's notes
-description:        Kia ora, I'm Hua, a developer, a student and a father.
+title:              Liting's Blog
+description:        Hi, I am Liting Wang
 
 # Site subpath, e.g. /blog
 baseurl:            ""
@@ -19,19 +19,18 @@ url:                ""
 
 # Site logo, image or text
 logo:               # e.g. logo.png, upload logo image file to /assets/img/ folder
-logo_text:          化十三爻      # if the above "logo:" image variable  is not set, this text logo is displayed instead
+logo_text:          岸芷汀兰      # if the above "logo:" image variable  is not set, this text logo is displayed instead
 
 # Author settings, displayed on about page
 author:
-    name:           Wang Hua
-    bio:            Kia ora, I'm Hua, a developer, a student and a father.
-    email:          mailto:aemooooon@gmail.com
-    website:        http://www.aemon.wang
-    facebook:       https://www.facebook.com/hua.wang.71/
-    github:         https://github.com/aemooooon/
-    instagram:      https://www.instagram.com/aemooooon/
-    linkedin:       https://www.linkedin.com/in/hua-wang-739244190/
-    pinterest:      https://github.com/aemooooon/Project-Portfolio/blob/master/assets/img/p/WeChatQRcode.jpg?raw=true
+    name:           Wang Liting
+    bio:            Kia ora, I'm Liting Wang, a student at University of Auckland
+    email:          mailto:kristine200815@gmail.com
+    website:        http://blog.litingwang.icu
+    facebook:       https://www.facebook.com/
+    github:         https://github.com/Litingggggg/
+    instagram:      https://www.instagram.com/
+    linkedin:       https://www.linkedin.com/
 # Social share buttons
 twitter_username:   username
 github_username:    username
@@ -50,7 +49,7 @@ footer:
     image:          footer.jpg  # upload your header image to /assets/posts/ folder
     align:          center      #top, center or bottom
     text:           light       # light or dark
-    copyright:      "&copy; aemooooon"
+    copyright:      "&copy; Liting"
 
 # Post settings
 post:
@@ -64,7 +63,7 @@ disqus:
 google_analytics:
 
 # Google maps API key, get your key here: https://developers.google.com/maps/documentation/javascript/get-api-key
-google_maps_api_key: AIzaSyCk8Ge_26DbfrhHt8oMNYZDG1LMN-96eBM
+google_maps_api_key: 
 
 # Number of posts displayed on blog page
 paginate:           10
