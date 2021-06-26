@@ -1,16 +1,16 @@
 ---
 layout: about
-title: 王华 / 东海
-subtitle: aemooooon
+title: 王俪汀 / 清清
+subtitle: Kristine
 permalink: /about/
 header:
-    image: about_hua.jpg
+    image: about_liting.jpg
     text: light
 ---
 
-## 王华 a.k.a 东海 / aemooooon
+## 王俪汀 a.k.a 清清 / Kristine
 
-甲子 癸酉 癸酉 甲子
+2000 Year
 
 {% include image.html img="hua.jpg" alt="Hua's photo" %}
 
