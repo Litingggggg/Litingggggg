@@ -1,0 +1,15 @@
+# Navbar left menu navigation links
+left:
+    - title: Blog
+      url: /
+
+    - title: about
+      url: /about/
+
+# Navbar right menu navigation links
+right:
+    - title: Tags
+      url: /categories/
+
+    - title: contact
+      url: /contact/
