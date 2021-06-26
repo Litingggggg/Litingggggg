@@ -14,6 +14,4 @@ header:
 
 {% include image.html img="hua.jpg" alt="Hua's photo" %}
 
-Graduated at Otago Polytechnic in majar Bachelor of Information technology.
-
-Currently is a developer as full stack in Web development.
+Talk about yourself here...
