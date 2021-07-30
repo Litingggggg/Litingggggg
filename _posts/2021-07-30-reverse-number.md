@@ -12,7 +12,7 @@ Things started with that I need to finish my first TimeCodeRunner exercise. I wa
 
 *Given a two-digit number, write a program that retrieves the "tens" digit, retrieves the "units" digit, and prints the number in reverse order.*
 
-### How to reverse a number?
+## How to reverse a number?
 
 I went to check all the lectures mentioned in the project description. However, there is no explanation. 
 
@@ -35,13 +35,12 @@ It works well. So it looks like to reverse a number, we only need to find those 
 
 However, it only works with two-digit numbers. Once the number is a three-digit number, the whole system would dead.
 
-### How to reverse a Multiple-digit Number
+## How to reverse a Multiple-digit Number
 
 For doing this, I learned to draw a flowchart at first.
 
-#### Draw a flowchart
-By checking the website ASQ, we can get more idea about the flowchart:
-[https://asq.org/quality-resources/flowchart]
+### Draw a flowchart
+By checking the website ASQ, we can get more idea about the flowchart: [https://asq.org/quality-resources/flowchart]
 
 The flowchart is a picture of the separate steps of a process in sequential order. it is made up by mulytiply shapes, use these and those arrows together can draw a fine flowchart.
 
@@ -58,7 +57,7 @@ In this case here, we want a progress can reverse all numbers no matter how many
 
 
 
-#### Code：
+### Code：
 
 ```python
 n=input("Please input a number you wanna reversed: ") 
