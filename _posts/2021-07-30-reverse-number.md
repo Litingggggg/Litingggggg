@@ -40,7 +40,7 @@ However, it only works with two-digit numbers. Once the number is a three-digit 
 For doing this, I learned to draw a flowchart at first.
 
 ### Draw a flowchart
-By checking the website ASQ, we can get more idea about the flowchart: [https://asq.org/quality-resources/flowchart]
+By checking the website ASQ, we can get more idea about the flowchart: <https://asq.org/quality-resources/flowchart>
 
 The flowchart is a picture of the separate steps of a process in sequential order. it is made up by mulytiply shapes, use these and those arrows together can draw a fine flowchart.
 
