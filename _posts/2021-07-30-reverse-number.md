@@ -11,11 +11,7 @@ header:
 Tings started with that I need to finish my first TimeCodeRunner exersice. I was lost when I opened the second question.
 
 #### Question
-*Given a 2 digit number write a program which:
-
-retrieve the "tens" digit,
-retrieve the "units" digit,
-print the number in reverse order.*
+*Given a 2 digit number write a program which: retrieve the "tens" digit, retrieve the "units" digit,print the number in reverse order.*
 
 ## Code Below：
 
