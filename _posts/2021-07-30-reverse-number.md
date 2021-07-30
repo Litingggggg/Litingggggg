@@ -47,7 +47,11 @@ The flowchart is a picture of the separate steps of a process in sequential orde
 
 The flowchart is a picture of the separate steps of a process in sequential order. It is making of multiple shapes, use these and those arrows together can draw an exemplary flowchart.
 
--Oval-shaps: start and endpoints -Parallelograms: estimate -Rectangles: progress -Rhombus: judge, estimate -Arrows: the direction the process goes
+```* Oval-shaps: start and endpoints 
+```* Parallelograms: estimate 
+```* Rectangles: progress 
+```* Rhombus: judge, estimate 
+```* Arrows: the direction the process goes
 
 In this case here, we want a progress can reverse all numbers no matter how many digits they are. 
 
