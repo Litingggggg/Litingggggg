@@ -18,7 +18,7 @@ I went to check all the lectures mentioned in the project description. However, 
 
 I struggled. 
 
-by rechecking the question, *You need to use the modulus (%) and floor division (//) operators in your calculations.* I used the two methods to write the answer.
+By rechecking the question, *You need to use the modulus (%) and floor division (//) operators in your calculations.* I used the two methods to write the answer.
 
 ```python
 import math
