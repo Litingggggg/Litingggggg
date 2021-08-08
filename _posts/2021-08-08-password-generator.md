@@ -3,7 +3,7 @@ layout: post
 subtitle: with my first flowchart
 categories: [Python, Flowchart]
 header:
-    image: about_liting.jpg
+    image: header.jpg
     align:
     text: light
 ---
@@ -58,3 +58,7 @@ print(" ")
 
 ```
 {% include image.html img="flowchart_transparent_bg_with_shadow.png" alt="Flowchart" caption="Flowchart" %}
+
+
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/y8tF0yRl8-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
