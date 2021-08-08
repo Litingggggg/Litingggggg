@@ -40,7 +40,7 @@ template:           light       # light or dark
 
 # Default header image settings
 header:
-    image:          header.jpg  # upload your header image to /assets/posts/ folder
+    image:          header.png  # upload your header image to /assets/posts/ folder
     align:          center      # top, center or bottom
     text:           light       # light or dark
 
